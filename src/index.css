@@ -10,7 +10,7 @@ html {
     color: white;
 }
 
-h1 {
+/* h1 {
     font-size: 5rem;
 }
 
@@ -23,7 +23,6 @@ button {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    /* background-image: ; */
 }
 
 .datacontainer {
@@ -55,4 +54,4 @@ button {
 img {
     width: 250px;
     border-radius: 50%;
-}
+} */
